@@ -8,6 +8,7 @@ TagManager:
   - EnemyHitBox
   - EnemyHurtBox
   - PlayerHitBox
+  - WinState
   layers:
   - Default
   - TransparentFX
